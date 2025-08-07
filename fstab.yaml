@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/skukla/jen-b/
+    type: markup
+
+folders:
+  /products/: /products/default
