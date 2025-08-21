@@ -1,5 +1,21 @@
 {
-  "project": "My Project",
+  "project": "Jen-B Commerce Storefront",
   "editUrlLabel": "Document Authoring",
-  "editUrlPattern": "https://da.live/edit#/{{org}}/{{site}}{{pathname}}"
+  "editUrlPattern": "https://da.live/edit#/{{org}}/{{site}}{{pathname}}",
+  "plugins": [
+    {
+      "id": "library",
+      "title": "Block Library",
+      "environments": ["edit"],
+      "url": "/tools/sidekick/library.html",
+      "includePaths": ["**.docx**"]
+    },
+    {
+      "id": "commerce-picker",
+      "title": "Commerce",
+      "environments": ["edit"],
+      "url": "/tools/picker/picker.html",
+      "includePaths": ["**.docx**"]
+    }
+  ]
 }

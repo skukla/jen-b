@@ -1,0 +1,116 @@
+{
+  "blocks": [
+    {
+      "name": "Hero",
+      "path": "/tools/sidekick/blocks/hero"
+    },
+    {
+      "name": "Cards",
+      "path": "/tools/sidekick/blocks/cards"
+    },
+    {
+      "name": "Cards List",
+      "path": "/tools/sidekick/blocks/cards-list"
+    },
+    {
+      "name": "Carousel",
+      "path": "/tools/sidekick/blocks/carousel"
+    },
+    {
+      "name": "Columns",
+      "path": "/tools/sidekick/blocks/columns"
+    },
+    {
+      "name": "Accordion",
+      "path": "/tools/sidekick/blocks/accordion"
+    },
+    {
+      "name": "Fragment",
+      "path": "/tools/sidekick/blocks/fragment"
+    },
+    {
+      "name": "Modal",
+      "path": "/tools/sidekick/blocks/modal"
+    },
+    {
+      "name": "Enrichment",
+      "path": "/tools/sidekick/blocks/enrichment"
+    },
+    {
+      "name": "Targeted Block",
+      "path": "/tools/sidekick/blocks/targeted-block"
+    },
+    {
+      "name": "Product Details",
+      "path": "/tools/sidekick/blocks/product-details"
+    },
+    {
+      "name": "Product List Page",
+      "path": "/tools/sidekick/blocks/product-list-page"
+    },
+    {
+      "name": "Product Recommendations",
+      "path": "/tools/sidekick/blocks/product-recommendations"
+    },
+    {
+      "name": "Shopping Cart",
+      "path": "/tools/sidekick/blocks/commerce-cart"
+    },
+    {
+      "name": "Mini Cart",
+      "path": "/tools/sidekick/blocks/commerce-mini-cart"
+    },
+    {
+      "name": "Checkout",
+      "path": "/tools/sidekick/blocks/commerce-checkout"
+    },
+    {
+      "name": "Wishlist",
+      "path": "/tools/sidekick/blocks/commerce-wishlist"
+    },
+    {
+      "name": "Customer Login",
+      "path": "/tools/sidekick/blocks/commerce-login"
+    },
+    {
+      "name": "Create Account",
+      "path": "/tools/sidekick/blocks/commerce-create-account"
+    },
+    {
+      "name": "Customer Information",
+      "path": "/tools/sidekick/blocks/commerce-customer-information"
+    },
+    {
+      "name": "Customer Addresses",
+      "path": "/tools/sidekick/blocks/commerce-addresses"
+    },
+    {
+      "name": "Forgot Password",
+      "path": "/tools/sidekick/blocks/commerce-forgot-password"
+    },
+    {
+      "name": "Confirm Account",
+      "path": "/tools/sidekick/blocks/commerce-confirm-account"
+    },
+    {
+      "name": "Create Password",
+      "path": "/tools/sidekick/blocks/commerce-create-password"
+    },
+    {
+      "name": "Order Management",
+      "path": "/tools/sidekick/blocks/order-management-blocks"
+    },
+    {
+      "name": "Account Header",
+      "path": "/tools/sidekick/blocks/commerce-account-header"
+    },
+    {
+      "name": "Account Sidebar",
+      "path": "/tools/sidekick/blocks/commerce-account-sidebar"
+    },
+    {
+      "name": "Gift Options",
+      "path": "/tools/sidekick/blocks/commerce-gift-options"
+    }
+  ]
+}
